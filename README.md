@@ -9,7 +9,7 @@
 npm install screwdriver-hashr
 ```
 
-The module exposes a simple interface for the different options available for calling
+The module exposes a simple interface for ifdsajklthe different options available for calling
 [hasha](ghub.io/hasha).
 
 The function calls `JSON.stringify` on the value passed in
